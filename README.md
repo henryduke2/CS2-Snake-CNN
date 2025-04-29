@@ -19,6 +19,16 @@ The platforms used to run this project are Google Colab and Jupyter Notebook, wi
 - 1_Preprocessing_and_EDA: Processing the image data into python and performing explanatory data analysis.
 - 2_Snake_Model: Processing the image data into python and running a pre-trained convolutional neural network to classify which snake photos are venomous and nonvenomous.
 
+### Hook Document
+- A detailed document with information on the background of this project alonng with the information about the deliverable needed.
+
+### Rubric
+- A detailed document organized to ensure that you have succesfully reproduced this case study
+
+### Materials
+- MobilenetV2.pdf: A blog post with information on how to use the MobilenetV2 pre-trained CNN model
+- image_recognition_with_cnn: A blog post with information about convolutional neural network models and how to use the models with image recognition.
+
 ## LICENSE
 - MIT License dictating how this data and analysis can be used.
 
