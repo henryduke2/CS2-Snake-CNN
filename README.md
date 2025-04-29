@@ -24,7 +24,7 @@ The platforms used to run this project are Google Colab and Jupyter Notebook, wi
 
 ## Reproducing Results
 
-To start reproduicng results, you first must access the examplezip file of all of the snake photos from the seperate repository. Within this zip file, the images are already seperated into train and test data. Within each train and test folder, they are seperated into venomous and nonvenomous folders containing the images of the snake. All images are from images.cv. Feel free to add more species of snake from the site to create a more useful and predictvie model.
+To start reproduicng results, you first must access the example zip file of all of the snake photos from the seperate repository. Within this zip file, the images are already seperated into train and test data. Within each train and test folder, they are seperated into venomous and nonvenomous folders containing the images of the snake. All images are from images.cv. Feel free to add more species of snake from the site to create a more useful and predictvie model.
 
 Once the file is downloaded, the images are processed in the beginning of both scripts. Open the 1_Preprocessing_and_EDA script to process the image to and to analyze the exploratory data analysis which will show you properties, dimensions, and sample of the snake data.
 
